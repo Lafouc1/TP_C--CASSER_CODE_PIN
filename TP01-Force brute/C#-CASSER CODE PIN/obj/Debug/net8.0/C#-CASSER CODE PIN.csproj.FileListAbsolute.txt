@@ -1,0 +1,14 @@
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\bin\Debug\net8.0\C#-CASSER CODE PIN.exe
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\bin\Debug\net8.0\C#-CASSER CODE PIN.deps.json
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\bin\Debug\net8.0\C#-CASSER CODE PIN.runtimeconfig.json
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\bin\Debug\net8.0\C#-CASSER CODE PIN.dll
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\bin\Debug\net8.0\C#-CASSER CODE PIN.pdb
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\obj\Debug\net8.0\C#-CASSER CODE PIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\obj\Debug\net8.0\C#-CASSER CODE PIN.AssemblyInfoInputs.cache
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\obj\Debug\net8.0\C#-CASSER CODE PIN.AssemblyInfo.cs
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\obj\Debug\net8.0\C#-CASSER CODE PIN.csproj.CoreCompileInputs.cache
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\obj\Debug\net8.0\C#-CASSER CODE PIN.dll
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\obj\Debug\net8.0\refint\C#-CASSER CODE PIN.dll
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\obj\Debug\net8.0\C#-CASSER CODE PIN.pdb
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\obj\Debug\net8.0\C#-CASSER CODE PIN.genruntimeconfig.cache
+D:\CoursNC\B3\TP01-Force brute\C#-CASSER CODE PIN\obj\Debug\net8.0\ref\C#-CASSER CODE PIN.dll
